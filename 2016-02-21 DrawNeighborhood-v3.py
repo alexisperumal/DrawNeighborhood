@@ -2,6 +2,7 @@
 # Turtle Example Program
 # v2: Add colored area fills (red and yellow) to the houses.
 # v3 (7/16/17): Add random color area fills.
+# 8/12/17: Used this as a basis for new project in PyCharm, and pushed it to GitHub.
 
 import turtle, random
 
@@ -16,6 +17,11 @@ def drawTriangle(x, y, scale=1, restore=False):
     oldY = turtle.ycor()
     turtle.penup()
     turtle.setpos(x, y)
+
+#    rgb = (random.random(), random.random(), random.random())
+#    turtle.pencolor(rgb)
+#    rgb = (random.random(), random.random(), random.random())
+#    turtle.fillcolor(rgb)
 
     turtle.begin_fill()
     turtle.pendown()
