@@ -25,6 +25,7 @@ def drawTriangle(x, y, scale=1, restore=False):
 # Adding a uselsess comment. Editing a comment. Another edit on the first comment.
 # Adding a second useless comment.
 # 8/13/17 Second Comment at Bitlings!
+# OK, we're having fun now!
     
 
     turtle.begin_fill()
