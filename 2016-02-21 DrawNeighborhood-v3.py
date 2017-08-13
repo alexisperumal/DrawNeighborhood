@@ -22,6 +22,7 @@ def drawTriangle(x, y, scale=1, restore=False):
 #    turtle.pencolor(rgb)
 #    rgb = (random.random(), random.random(), random.random())
 #    turtle.fillcolor(rgb)
+# Adding a uselsess comment.
 
     turtle.begin_fill()
     turtle.pendown()
