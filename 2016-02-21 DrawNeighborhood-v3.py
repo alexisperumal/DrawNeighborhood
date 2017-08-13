@@ -24,9 +24,7 @@ def drawTriangle(x, y, scale=1, restore=False):
 #    turtle.fillcolor(rgb)
 # Adding a uselsess comment. Editing a comment. Another edit on the first comment.
 # Adding a second useless comment.
-# 8/13/17 Second Comment at Bitlings!
-# OK, we're having fun now!
-
+# Comment added in the branch.
 
     turtle.begin_fill()
     turtle.pendown()
