@@ -17,11 +17,6 @@ def drawTriangle(x, y, scale=1, restore=False):
     turtle.penup()
     turtle.setpos(x, y)
 
-#    rgb = (random.random(), random.random(), random.random())
-#    turtle.pencolor(rgb)
-#    rgb = (random.random(), random.random(), random.random())
-#    turtle.fillcolor(rgb)
-
     turtle.begin_fill()
     turtle.pendown()
     turtle.setpos(x+scale,y)
