@@ -26,6 +26,7 @@ def drawTriangle(x, y, scale=1, restore=False):
 # Adding a second useless comment.
 # Comment added in the branch. Boo!
 # Adding another comment with Devin at Starbucks (8/20/17)
+# Local commment conflicting with the server side comment. (8/20/17)
 
     turtle.begin_fill()
     turtle.pendown()
