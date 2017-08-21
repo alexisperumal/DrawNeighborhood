@@ -28,6 +28,7 @@ def drawTriangle(x, y, scale=1, restore=False):
 # Adding another comment with Devin at Starbucks (8/20/17)
 # GitHub server side comment with Devin at Starbucks.
 # Local commment conflicting with the server side comment. (8/20/17)
+# More evil. Another server side comment.
 
     turtle.begin_fill()
     turtle.pendown()
